@@ -10,6 +10,9 @@ This widget has the following properties:
 ### Goals
 The __BasicContainer__ shows how simple is to create a new container widget on Wakanda. 
 
+To have a container behavior, the framework make available to the widget the waf-behavior/layout/container :
+BasicContainer.inherit(WAF.require('waf-behavior/layout/container')); 
+
 
 ### CSS
 The __BasicContainer__ will be displayed first in green. You can adjust the widget color by changing directly in the Style panel of your Wakanda  Studio OR by changing the /css/widget.css file.  
