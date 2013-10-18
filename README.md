@@ -12,6 +12,7 @@ The __BasicContainer__ shows how simple is to create a new container widget on W
 
 To have a container behavior, the framework make available to the widget the waf-behavior/layout/container :
 BasicContainer.inherit(WAF.require('waf-behavior/layout/container')); 
+(check the widget.js file for further details) 
 
 
 ### CSS
