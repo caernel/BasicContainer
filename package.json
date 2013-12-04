@@ -1,14 +1,15 @@
 {
     "name": "BasicContainer",
-    "author": "Wakanda Examples",
+    "author": "Widget Developer",
 	"contributors": [
-	    "Ricardo Mello"
+	    "Developer 1", 
+	    "Developer 2"
 	],
     "version": "1.0.0",
     "copyright": "(c) 2013 Widget Developer",
 	"repository": {
-	    "type": "wakanda",
-	    "url": "https://wakanda.org"
+	    "type": "git",
+	    "url": "https://github.com/developer/Widget.git"
 	},
 	"keywords": ["wakanda", "widget"],
 	"engines": {"wakanda" : ">= 6"},
